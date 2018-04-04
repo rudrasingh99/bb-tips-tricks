@@ -19,8 +19,7 @@ alias proxy-off="sudo networksetup -setsecurewebproxystate 'Wi-Fi' off && sudo n
 ____________________________________________________________________________
 
 
-Online App Scanners
-
+APKScan
 https://www.htbridge.com/mobile/?id=JebdfnGU
 https://apkscan.nviso.be
 https://www.androlyzer.com
