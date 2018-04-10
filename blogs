@@ -4,3 +4,31 @@ Auth0 Auth Bypass - https://medium.com/@cintainfinita/knocking-down-the-big-door
 Some Cool File Upload Bypass Tricks @ - https://mike-n1.github.io/
 
 Safari Based XSS - https://bo0om.ru/safari-client-side
+
+[iOS Static Analysis and Recon – SecDevOps](https://secdevops.ai/ios-static-analysis-and-recon-c611eaa6d108)
+
+[Bypassing NGFW/WAFs using data format obfuscations – Ivan Novikov – Medium](https://medium.com/@d0znpp/bypassing-ngfw-wafs-using-data-format-obfuscations-188351ea9e73)
+
+[PHP SSRF Techniques – secjuice™ – Medium](https://medium.com/secjuice/php-ssrf-techniques-9d422cb28d51)
+
+[Linux · Security - My notepad](https://xapax.gitbooks.io/security/content/linux.html)
+
+[PHP : Winning the race against PHP (alternative way to easy_php @ N1CTF2018)](http://dann.com.br/php-winning-the-race-condition-vs-temporary-file-upload-alternative-way-to-easy_php-n1ctf2018/)
+
+[Fuzzing JSON Web Services](https://secapps.com/blog/2018/03/fuzzing-json-web-services)
+
+[Bypassing Payments Using Webhooks | Lightning Security](https://lightningsecurity.io/blog/bypassing-payments-using-webhooks/)
+
+[](http://www.cheat-sheets.org/saved-copy/ssiqr.pdf)
+
+[GitHub - caffix/amass: Subdomain Enumeration in Go](https://github.com/caffix/amass)
+
+Watch Ippsec
+
+[GraphQL abuse: Bypass account level permissions through parameter smuggling](https://labs.detectify.com/2018/03/14/graphql-abuse/)
+
+[https://staaldraad.github.io/post/2018-03-16-quick-win-with-graphql/](https://t.co/WJQm0K0ShO)
+
+[Jwt == insecurity?](https://www.slideshare.net/snyff/jwt-insecurity)
+
+[Prevent bypassing of SSL certificate pinning in iOS applications | GuardSquare](https://www.guardsquare.com/en/blog/iOS-SSL-certificate-pinning-bypassing)
