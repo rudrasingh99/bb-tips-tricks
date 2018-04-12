@@ -36,6 +36,10 @@ https://drive.google.com/open?id=12HuJghz0eTyQL-ilIuRkNmoSYIDHlixc
 
 ____________________________________________________________________________
 
+data:text/html,%20<html%20contenteditable><Title>Notepad</Title>
+
+____________________________________________________________________________
+
 
 Beyond XSS: Edge Side Include Injection
 http://gosecure.net/2018/04/03/beyond-xss-edge-side-include-injection/
