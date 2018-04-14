@@ -40,3 +40,5 @@ Watch Ippsec
 [Cross-Protocol Request Forgery] https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2018/cprf.pdf
 
 [XSS in Yahoo Subdomain - Mohamed Haron Elhosseny](http://www.mohamedharon.com/2018/03/xss-in-subdomain-httpsyefgrantsyahoocom.html)
+
+[No RCE? Then SSH to the box!](http://blog.jr0ch17.com/2018/No-RCE-then-SSH-to-the-box/)
