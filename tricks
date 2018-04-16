@@ -84,6 +84,8 @@ SMTP injection : valid_user_address%40company.com%0D%0ABCC%3Ame%40me.com%0D%0A
 
 ____________________________________________________________________________
 
+Search for .DS_Store files and parse them with a tool like https://digi.ninja/projects/fdb.php
 
+____________________________________________________________________________
 
 Will be adding more soon!
