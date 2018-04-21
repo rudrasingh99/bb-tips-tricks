@@ -90,4 +90,9 @@ ____________________________________________________________________________
 
 Bug bounty tip: Look for hackathon-related assets. Companies sometimes run hackathons and give attendees special access to certain API endpoints or temporary credentials. I have found GIT repositories that were set up for hackathons full of sensitive information.
 
+____________________________________________________________________________
+
+Search users within a comapny https://github.com/search?q=vimeo&type=Users
+
+____________________________________________________________________________
 Will be adding more soon!
