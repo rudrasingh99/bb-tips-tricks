@@ -100,4 +100,13 @@ Extracting through Meta
 https://gist.github.com/bugdiscloseguys/80a4249d6ff500bea76d75e56856d64d
 
 ____________________________________________________________________________
+
+One way to find domains in scope for a bug bounty program is to check listings per common nameservers.  Get the nameserver(s) of the main domain of the program and see what other domains are linked 
+
+____________________________________________________________________________
+
+Use nmap as a vulnerability scanner with scripts that map the open ports to existing exploits or even existing external scans "nmap --script shodan-api --script-args 'http://shodan-api.target  =$IP,shodan-api.apikey=API_KEY'" 
+
+____________________________________________________________________________
+
 Will be adding more soon!
